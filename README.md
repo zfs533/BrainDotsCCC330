@@ -5,3 +5,8 @@
 ![image](./img/1.png)
 - 关闭调试
 ![image](./img/2.png)
+
+## demo
+![image](./img/demo/1.png)
+![image](./img/demo/2.png)
+![image](./img/demo/3.png)
