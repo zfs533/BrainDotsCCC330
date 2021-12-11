@@ -1,9 +1,9 @@
 {
+  "name": "ccc330Frame",
+  "type": "3d",
+  "uuid": "46923664-5417-4511-9a25-3b23dab21360",
+  "version": "3.3.0",
   "creator": {
     "version": "3.3.0"
-  },
-  "name": "test330",
-  "type": "3d",
-  "uuid": "30af7023-889d-43ed-9ee7-9453196cf82e",
-  "version": "3.3.0"
+  }
 }
